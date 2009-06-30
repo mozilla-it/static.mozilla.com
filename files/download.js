@@ -163,7 +163,7 @@ function getDownloadURLForLanguage(aLangID, aPlatform, directLink)
     var url = getDownloadURLForProduct(product, version);
   // Otherwise give the download page URL.
   } else {
-    var url = "/products/download.html?product=";
+    var url = "http://download.mozilla.org/?product=";
   }
 
   url += product + "-" + version;
