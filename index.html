@@ -143,10 +143,10 @@ if (gPlatform == 1) {
         <!--
         // Configure the Firefox download write script
 
-        var gDownloadItemTemplate = " <li class=\"%CSS_CLASS%\"> <a onclick=\"javascript:do_download('%BOUNCER_URL%'); urchinTracker('\/firefox\/download\/0706abtest\/?control');\" href=\"%DOWNLOAD_URL%\" class=\"download-link download-firefox\"> <span><strong>Download Firefox - Free<\/strong> <em>%VERSION% for %PLATFORM_NAME%</em> <em class=\"download-lang\">%LANGUAGE_NAME%&nbsp;(%FILE_SIZE%)<\/em><\/span><\/a> <\/li>";
+        var gDownloadItemTemplate = " <li class=\"%CSS_CLASS%\"> <a onclick=\"javascript:do_download('%BOUNCER_URL%'); urchinTracker('\/firefox\/download\/0706abtest\/?control');\" href=\"%BOUNCER_URL%\" class=\"download-link download-firefox\"> <span><strong>Download Firefox - Free<\/strong> <em>%VERSION% for %PLATFORM_NAME%</em> <em class=\"download-lang\">%LANGUAGE_NAME%&nbsp;(%FILE_SIZE%)<\/em><\/span><\/a> <\/li>";
 		// Temporary fix for bug 439792
 		if (gPlatform == PLATFORM_MACOSX) {
-			gDownloadItemTemplate = " <li class=\"%CSS_CLASS%\"> <a onclick=\"javascript:do_download('%BOUNCER_URL%'); urchinTracker('\/firefox\/download\/0706abtest\/?control');\" href=\"%DOWNLOAD_URL%\" class=\"download-link download-firefox\"> <span><strong>Download Firefox - Free<\/strong> <em>%VERSION% for %PLATFORM_NAME% 10.4 and above</em> <em class=\"download-lang\">%LANGUAGE_NAME%&nbsp;(%FILE_SIZE%)<\/em><\/span><\/a> <\/li>";
+			gDownloadItemTemplate = " <li class=\"%CSS_CLASS%\"> <a onclick=\"javascript:do_download('%BOUNCER_URL%'); urchinTracker('\/firefox\/download\/0706abtest\/?control');\" href=\"%BOUNCER_URL%\" class=\"download-link download-firefox\"> <span><strong>Download Firefox - Free<\/strong> <em>%VERSION% for %PLATFORM_NAME% 10.4 and above</em> <em class=\"download-lang\">%LANGUAGE_NAME%&nbsp;(%FILE_SIZE%)<\/em><\/span><\/a> <\/li>";
 		}
         var gDownloadItemMacOS9 = "<a href=\"\">MacOS 9 and earlier are not supported<\/a>";
         var gDownloadItemOtherPlatform = "<a href=\"http://www.mozilla.com/en-US/firefox/3.5/releasenotes/#contributedbuilds\">Free Download<\/a>"
