@@ -9,56 +9,56 @@
     @font-face {
       font-family: 'MetaBold';
       src: local('MetaBold-Roman'),
-           url('fonts/MetaWebPro-Bold.woff');
+           url('https://www.mozilla.org/img/fonts/MetaWebPro-Bold.woff');
     }
     /* FiraSans */
     @font-face {
       font-family: 'FiraSans';
       src: local('FiraSans-Light'),
-           url('fonts/FiraSans-Light.woff');
+           url('https://www.mozilla.org/media/fonts/FiraSans-Light.woff');
       font-weight: 300;
     }
     @font-face {
       font-family: 'FiraSans';
       src: local('FiraSans-Regular'),
-           url('fonts/FiraSans-Regular.woff');
+           url('https://www.mozilla.org/media/fonts/FiraSans-Regular.woff');
     }
     @font-face {
       font-family: 'FiraSans';
       src: local('FiraSans-Medium'),
-           url('fonts/FiraSans-Medium.woff');
+           url('https://www.mozilla.org/media/fonts/FiraSans-Medium.woff');
       font-weight: 500;
     }
     @font-face {
       font-family: 'FiraSans';
       src: local('FiraSans-Bold'),
-           url('fonts/FiraSans-Bold.woff');
+           url('https://www.mozilla.org/media/fonts/FiraSans-Bold.woff');
       font-weight: bold;
     }
     @font-face {
       font-family: 'FiraSans';
       src: local('FiraSans-LightItalic'),
-           url('fonts/FiraSans-LightItalic.woff');
+           url('https://www.mozilla.org/media/fonts/FiraSans-LightItalic.woff');
       font-weight: 300;
       font-style: italic;
     }
     @font-face {
       font-family: 'FiraSans';
       src: local('FiraSans-RegularItalic'),
-           url('fonts/FiraSans-RegularItalic.woff');
+           url('https://www.mozilla.org/media/fonts/FiraSans-RegularItalic.woff');
       font-style: italic;
     }
     @font-face {
       font-family: 'FiraSans';
       src: local('FiraSans-MediumItalic'),
-           url('fonts/FiraSans-MediumItalic.woff');
+           url('https://www.mozilla.org/media/fonts/FiraSans-MediumItalic.woff');
       font-weight: 500;
       font-style: italic;
     }
     @font-face {
       font-family: 'FiraSans';
       src: local('FiraSans-BoldItalic'),
-           url('fonts/FiraSans-BoldItalic.woff');
+           url('https://www.mozilla.org/media/fonts/FiraSans-BoldItalic.woff');
       font-weight: bold;
       font-style: italic;
     }
