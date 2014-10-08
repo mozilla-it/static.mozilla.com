@@ -1,0 +1,61 @@
+               Mozilla Foundation Committer's Agreement v2.1
+
+In order to become a Committer - that is, to obtain the ability to directly
+contribute source code, documentation or other data ("Code") to a website or
+repository operated or controlled by the Mozilla Foundation or its affiliates
+(a "Mozilla Repository") - you ("You") must indicate your agreement to the
+terms below by completing and signing this agreement and returning it to a
+Mozilla Foundation representative via one of the methods specified at
+http://www.mozilla.org/hacking/notification/ .
+
+1. Treatment of Account
+
+You will receive one or more sets of Mozilla project access credentials,
+and/or one or more sets of credentials you already have will be given the
+power to access a Mozilla Repository. You will not allow anyone else to use
+these credentials to access any Mozilla system. Should You become aware of
+any such use, You will immediately notify the Mozilla Foundation in the
+manner specified at http://www.mozilla.org/hacking/notification/; until such
+notice is received You will be presumed to have taken all actions made using
+Your credentials.
+
+The Mozilla Foundation and their designates will have complete control and
+discretion over capabilities associated with Your credentials and may change
+them for any reason at any time. Your name and email address, or a
+derivative of it, may be attached to your contributions and so be visible
+worldwide via the Internet.
+
+2. License Terms
+
+Code committed by you to a Mozilla Repository, whether written by you or a
+third party, must be governed by the Mozilla Public License 2.0, or another
+license or set of licenses acceptable to the Mozilla Foundation for the Code
+in question. Other licenses are not acceptable to the Mozilla Foundation
+until the Foundation declares them to be acceptable in writing. You will
+verify that committed Code contains appropriate boilerplate licensing text.
+
+3. Notices and Knowledge
+
+By contributing Code, You confirm that, to the best of Your knowledge, the
+Code does not violate the rights of any person or entity.
+
+If You contribute Code on behalf of Your employer, then You confirm that an
+appropriate representative of that employer has authorized the inclusion of
+such Code in a Mozilla Repository under the terms of this agreement.
+
+4. Committing Code Created by Others
+
+You may check in Code to a Mozilla Repository that was not written by You,
+provided that:
+
+  a) The checkin or checkin comment contains information (or references to
+     information) sufficient to identify the author of the Code, the license
+     of the Code, and the third-party public source code repository the code
+     was taken from, if it came from such a repository; and
+     
+  b) You make all reasonable and appropriate efforts to ensure that such
+     Code conforms to sections 2 and 3 of this agreement.
+
+5. Contact Information
+
+[See contact information provided above.]
